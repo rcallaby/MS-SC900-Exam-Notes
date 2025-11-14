@@ -1,10 +1,6 @@
 # Identity Protection & Identity Governance with Microsoft Entra — Exam-focused guide (for **MS-SC900**)
 
-Below is an exhaustive, exam-oriented study guide covering **Identity Protection** and **Identity Governance** in Microsoft Entra (Entra ID). All statements are drawn from official Microsoft documentation and Microsoft product pages; citations follow the most important sections so you can verify details directly.
-
----
-
-# Quick overview — what you must know
+## Quick overview — what you must know
 
 * **Identity Protection** detects risky sign-ins and risky users, produces risk signals, and enables automated responses (block, require password reset, require MFA) that integrate with Conditional Access. ([Microsoft Learn][1])
 * **Identity Governance** is the set of capabilities that let you govern who has access to what and for how long — main components are Privileged Identity Management (PIM), Entitlement Management (access packages), and Access Reviews. ([Microsoft Learn][2])
