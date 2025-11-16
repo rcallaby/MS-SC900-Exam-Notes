@@ -34,3 +34,13 @@ From an employer's perspective, having a team of SC-900 certified professionals 
 The SC-900 Azure Certification is a compelling choice for individuals looking to advance their careers in the ever-expanding field of cloud computing. The benefits, ranging from in-demand security expertise to increased earning potential, make it an attractive option for both job seekers and employers. As organizations continue to embrace the power of Microsoft Azure, having the SC-900 certification can be the key to unlocking new and exciting opportunities in the dynamic world of cloud technology.
 
 ## Table of Contents
+
+- Part 01 Security and Compliance Concepts
+- Part 02 Security Concepts
+- Part 03 Authentication Capabilities with Entra
+- Part 04 Identity Concepts with Entra
+- Part 05 Acess Management with Entra
+- Part 06 Identity Protection with Governance with Entra
+- Part 07 Core Infrastructure in Azure
+- Part 08 Security Management in Azure
+- Part 09 Security Capabilities of Microsoft Sentinel
